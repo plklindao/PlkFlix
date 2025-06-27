@@ -12,3 +12,8 @@ header{
     border-bottom: solid 2px black;
     padding: 10px;
 }
+
+
+body{
+    background-color: rgb(230, 67, 67);
+}
