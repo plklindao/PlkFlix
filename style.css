@@ -1,35 +1,35 @@
-* {
+*{
     margin: 0px;
     padding: 0px;
 }
 
 
-header {
+header{
     background-color: rgb(14, 13, 13);
-    font-family: "Open Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-family: "Manufacturing Consent", system-ui;
+    font-weight: 400;
     font-style: normal;
-    font-variation-settings: "wdth" 100 color: rgb(184, 182, 182);
+    color: rgb(184, 182, 182);
     font-size: 40px;
     border-bottom: solid 2px black;
     padding: 20px;
 }
 
 
-body {
+body{
     background-image: url(https://img.freepik.com/fotos-gratis/fundo-de-papel-de-parede-colorido-vivido-e-desfocado_58702-2873.jpg?semt=ais_hybrid&w=740);
     background-size: cover;
     color: white;
 }
 
-.chamada {
+.chamada{
     display: flex;
     justify-content: center;
     background-color: black;
 }
 
 
-.chamada_texto {
+.chamada_texto{
     margin-right: 5%;
 }
+
