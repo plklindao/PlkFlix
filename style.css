@@ -19,17 +19,17 @@ header{
 body{
     background-image: url(https://img.freepik.com/fotos-gratis/fundo-de-papel-de-parede-colorido-vivido-e-desfocado_58702-2873.jpg?semt=ais_hybrid&w=740);
     background-size: cover;
+    color: white;
 }
 
 .chamada{
     display: flex;
     justify-content: center;
     background-color: black;
-    color: white;
 }
 
 
 .chamada_texto{
-    margin-right: 5px;
+    margin-right: 5%;
 }
 
