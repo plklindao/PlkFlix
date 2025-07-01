@@ -6,7 +6,9 @@
 
 header{
     background-color: rgb(14, 13, 13);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "Manufacturing Consent", system-ui;
+    font-weight: 400;
+    font-style: normal;
     color: rgb(184, 182, 182);
     font-size: 40px;
     border-bottom: solid 2px black;
@@ -30,3 +32,4 @@ body{
 .chamada_texto{
     margin-right: 5%;
 }
+
