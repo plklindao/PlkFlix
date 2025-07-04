@@ -42,10 +42,10 @@ body{
 }
 
 .boasvindas{
-    color: black;
+    color: rgb(250, 245, 245);
     background-color: red;
     text-align: center;
     font-size: 50px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
